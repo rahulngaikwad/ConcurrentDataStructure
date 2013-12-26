@@ -1,8 +1,4 @@
 CONCURRENT DATA STRUCTURES FOR MULTICORE SYSTEMS
-- PROGRAMMING ASSIGNMENT 3
-
-- RAHUL GAIKWAD
-
 
 **************** How to compile and run ******************************
 1. Copy all files from dir Source  
