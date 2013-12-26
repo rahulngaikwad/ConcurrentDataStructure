@@ -1,8 +1,7 @@
 CONCURRENT DATA STRUCTURES FOR MULTICORE SYSTEMS
 - PROGRAMMING ASSIGNMENT 3
 
-- RAHUL GAEKWAD
-- ANKIT PAREKH 
+- RAHUL GAIKWAD
 
 
 **************** How to compile and run ******************************
